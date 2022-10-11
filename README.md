@@ -1,19 +1,6 @@
 <h1> Just call me Hoges!</h1>
 
-<!--
-**hogesonline/hogesonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Twitter Follow](https://img.shields.io/twitter/follow/hogesonline?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvhVh3Gkw7a9sv6uv6lO8Q?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/hogesonline?style=social)
@@ -63,7 +50,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hogesonline&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogesonline&theme=buefy&layout=compact" />
 </a>
-
 <br/>
+<h2>Trophies! 🏆</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hogesonline&theme=onedark)](https://github.com/hogesonline/github-profile-trophy)
 
 ⭐️ From [hogesonline](https://github.com/hogesonline)
