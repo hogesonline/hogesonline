@@ -47,8 +47,8 @@ I used to work in IT and then retrained as a teacher and haven't regretted it fo
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 
-  [![My stats from github](https://github-readme-stats.vercel.app/api/top-langs/?username=hogesonline&theme=buefy&layout=compact")](https://github.com/hogesonline =x200)
-  [![My stats from github](https://github-readme-stats.vercel.app/api?username=hogesonline&theme=buefy&show_icons=true")](https://github.com/hogesonline =x200)
+  [![My stats from github](https://github-readme-stats.vercel.app/api/top-langs/?username=hogesonline&theme=buefy&layout=compact"=x200)](https://github.com/hogesonline)
+  [![My stats from github](https://github-readme-stats.vercel.app/api?username=hogesonline&theme=buefy&show_icons=true" =x200)](https://github.com/hogesonline)
   
 
 ### 🏆 Trophies! 
