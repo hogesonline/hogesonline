@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/hogesonline?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvhVh3Gkw7a9sv6uv6lO8Q?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/hogesonline?style=social)
-
+I used to work in IT and then retrained as a teacher and haven't regretted it for a second. I teach computers and technology to all high school years from 7-12. The best thing about my job is that I get to play with robots and computer games and call it work. I'm going to start that textbook any day now.
 
 
 ### 👨🏻‍💻 &nbsp;About Me
