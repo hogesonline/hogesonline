@@ -1,9 +1,9 @@
 # Just call me Hoges!
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/hogesonline?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvhVh3Gkw7a9sv6uv6lO8Q?style=social)
-![GitHub followers](https://img.shields.io/github/followers/hogesonline?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hogesonline?style=social)](https://twitter.com/hogesonline)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvhVh3Gkw7a9sv6uv6lO8Q?style=social)](https://www.youtube.com/channel/UCNvhVh3Gkw7a9sv6uv6lO8Q)
+[![GitHub followers](https://img.shields.io/github/followers/hogesonline?style=social)](https://github.com/hogesonline)
 
 I used to work in IT and then retrained as a teacher and haven't regretted it for a second. I teach computers and technology to all high school years from 7-12. The best thing about my job is that I get to play with robots and computer games and call it work. I'm going to start that textbook any day now.
 
@@ -47,10 +47,9 @@ I used to work in IT and then retrained as a teacher and haven't regretted it fo
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hogesonline&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogesonline&theme=buefy&layout=compact" />
-</a>
+  [![My stats from github](https://github-readme-stats.vercel.app/api?username=hogesonline&theme=buefy&show_icons=true")](https://github.com/hogesonline)
+  [![My stats from github](https://github-readme-stats.vercel.app/api/top-langs/?username=hogesonline&theme=buefy&layout=compact")](https://github.com/hogesonline)
+
 
 ### 🏆 Trophies! 
 
