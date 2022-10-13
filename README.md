@@ -8,14 +8,15 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-### 📖 [My portfolio!](https://hogesonline.github.io/portfolio/) 
-
 - 🎓 &nbsp; Computer Science teacher at St Andrew's Cathedral School Sydney
 - ✍️ &nbsp; Gonna write that textbook tomorrow
 - 🔭 I’m currently working on trying to break down difficult concepts for teenage minds
 - 💬 Ask me about generative art
 - 🚲 I like going fast on my bike
+
+
+### 📖 [My portfolio!](https://hogesonline.github.io/portfolio/) 
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -26,14 +27,15 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🛢 &nbsp;
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?logo=microsoft-sql-server&style=flat)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🛢 &nbsp;
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?logo=microsoft-sql-server&style=flat)
+
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit)
