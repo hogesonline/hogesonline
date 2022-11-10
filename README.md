@@ -2,7 +2,8 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hogesonline?style=social)](https://twitter.com/hogesonline)
-<a rel="me" href="https://aus.social/@hogesonline">Mastodon</a>
+[![Mastodon link]((https://img.shields.io/mastodon/follow/hogesonline?style=social)](https://aus.social/@hogesonline)
+<!--<a rel="me" href="https://aus.social/@hogesonline">Mastodon</a>-->
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvhVh3Gkw7a9sv6uv6lO8Q?style=social)](https://www.youtube.com/channel/UCNvhVh3Gkw7a9sv6uv6lO8Q)
 [![GitHub followers](https://img.shields.io/github/followers/hogesonline?style=social)](https://github.com/hogesonline)
 
