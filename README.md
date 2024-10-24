@@ -17,7 +17,7 @@ I used to work in IT and then retrained as a teacher and haven't regretted it fo
 - 🚲 I like going fast on my bike
 
 
-### 📖 [My portfolio!](https://hogesonline.github.io/portfolio/) 
+### 📖 [My portfolio!](https://hogesonline.github.io/)
 
 
 ### 🛠 &nbsp;Tech Stack
