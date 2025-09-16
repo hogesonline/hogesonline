@@ -13,7 +13,7 @@ I used to work in IT and then retrained as a teacher and haven't regretted it fo
 - 🎓 &nbsp; Computer Science teacher at St Andrew's Cathedral School Sydney
 - ✍️ &nbsp; Gonna write that textbook tomorrow
 - 🔭 I’m currently working on trying to break down difficult concepts for teenage minds
-- 💬 Ask me about generative art
+- 💬 Ask me about generative art (slop free!)
 - 🚲 I like going fast on my bike
 
 
