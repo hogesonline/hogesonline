@@ -1,7 +1,6 @@
 # Just call me Hoges!
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/hogesonline?style=social)](https://twitter.com/hogesonline)
+[![Bluesky](https://img.shields.io/badge/Bluesky-blue)](https://bsky.app/profile/hogesonline.bsky.social)
 <a href="https://aus.social/@hogesonline" rel="me"><img alt="Mastodon link" src="https://img.shields.io/mastodon/follow/109287799416335840?domain=https%3A%2F%2Faus.social&style=social"></a>
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNvhVh3Gkw7a9sv6uv6lO8Q?style=social)](https://www.youtube.com/channel/UCNvhVh3Gkw7a9sv6uv6lO8Q)
 [![GitHub followers](https://img.shields.io/github/followers/hogesonline?style=social)](https://github.com/hogesonline)
